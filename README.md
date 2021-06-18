@@ -92,26 +92,39 @@ The phenotypic data files contain the following columns:
 + Birth_weight: The birth weight of pigs, which were recorded within 24 hours after the piglets were born
 
 + Day_to_115kg: The number of days to reach 115 kg, which was calucated based on the body weight at the off-test stage using the following formula:
+
+  
   $$
   \text {Adjusted days to 115 kg} = \text {actual age} + \left[ 115 - \text{actual weight} \times \frac{\text{actual age}-a}{\text{actual weight}} \right]
   $$
+  
+
   where $a=50$ for boars and $40$ for sows
 
 + Backfat_thickness: The backfat thickness (mm) of pigs were measured using ultrasound scanning between the 3rd and 4th last ribs, which were corrected to 115 kg using the following formula:
+
+  
   $$
   \text{Adjusted backfat} = \text{actual backfat} + \left[\left(115-\text{actual weight}\right)\times\frac{\text{actual backfat}}{\text{actual weight}-a}\right]
   $$
+  
+
   where $a=-9.07$ for boars and $2.68$ for sows
 
 + Loin_muscle_area: The loin muscle area ($\text{cm}^2$) of pigs were measured  using ultrasound scanning between the 3rd and 4th last ribs, which were corrected to 115 kg using the following formula:
+
+  
   $$
   \begin{aligned}
   \text{Adjusted loin muscle area} &= \text{actual loin muscle area} +\\
   & \left[\left(115-\text{actual weight}\right)\times\frac{\text{actual loin muscle area}}{\text{actual weight}+ 70.31}\right]
   \end{aligned}
   $$
+  
 
 + Lean_percentage: The  lean percentage (%) were predicted based on backfat thickness and loin muscle area ajusted to 115 kg using the following formula:
+
+  
   $$
   \begin{aligned}
   \text {lean percentage} &= \left[80.96-\left(0.6472 \times \text{Adjusted backfat}\right) + \\
