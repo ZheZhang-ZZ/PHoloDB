@@ -1,0 +1,101 @@
+Taxonomy	GXL_5075	GXL_10938	GXL_8500	GXL_5076	GXL_12940	GXL_7910	GXL_7834	GXL_7837	GXL_13164	GXL_12278	GXL_11720	GXL_4184	GXL_1936	GXL_11714	GXL_10199	GXL_9463	GXL_4092	GXL_10143	GXL_13198	GXL_1001	GXL_5777	GXL_10941	GXL_4337	GXL_4363
+Candidatus Korarchaeum cryptofilum	0	6	0	2	15	19	0	2	0	1	2	0	13	6	30	6	13	0	3	1	0	0	11	13
+Candidatus Micrarchaeota archaeon Mia14	0	0	11	2	0	13	2	0	0	37	9	1	0	24	1	32	1	94	0	2	0	58	1	0
+Acidilobus saccharovorans	0	1	10	1	14	5	0	0	0	0	3	3	0	1	0	0	0	0	0	31	1	0	0	0
+Acidilobus sp. 7A	0	0	2	8	0	1	1	1	0	0	0	0	0	3	0	0	1	11	0	1	0	0	0	0
+Caldisphaera lagunensis	0	1	1	2	0	1	0	0	0	0	2	2	0	4	0	1	2	0	4	4	4	0	2	2
+Desulfurococcus amylolyticus	0	0	0	4	0	3	0	0	0	3	0	1	0	0	1	1	0	1	2	0	1	0	1	1
+Desulfurococcus mucosus	1	0	0	1	0	1	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	2	0	1
+Ignicoccus hospitalis	0	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0
+Ignicoccus islandicus	0	0	0	0	3	1	0	0	0	0	0	0	3	0	3	0	0	0	0	0	0	2	0	0
+Staphylothermus hellenicus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Staphylothermus marinus	0	0	0	0	22	11	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	0	0	0
+Thermogladius calderae	4	0	0	0	0	1	0	1	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Thermosphaera aggregans	0	0	2	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	1	0	3	0	0
+Hyperthermus butylicus	1	5	0	9	0	1	5	1	0	2	21	1	2	1	3	0	0	0	0	9	3	21	0	1
+Pyrodictium delaneyi	0	0	2	0	0	1	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0
+Pyrolobus fumarii	1	4	0	0	0	0	2	0	0	0	0	0	2	0	4	1	0	0	0	5	0	11	1	1
+Acidianus brierleyi	1	0	5	2	0	0	1	0	1	0	0	2	0	0	0	40	0	0	0	1	42	2	3	0
+Acidianus hospitalis	0	1	0	1	0	1	0	0	0	0	0	30	0	0	1	0	0	1	0	2	0	11	0	0
+Acidianus sulfidivorans	0	0	0	0	0	0	2	0	0	0	0	1	0	3	0	0	0	0	0	0	0	0	0	0
+Metallosphaera cuprina	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Metallosphaera hakonensis	0	0	0	3	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	1	0	0	0
+Metallosphaera sedula	0	1	0	0	2	0	0	0	0	1	0	0	0	0	0	0	1	1	0	0	2	0	0	0
+Sulfolobus acidocaldarius	0	0	0	2	2	1	0	0	0	0	3	0	1	0	0	0	0	0	0	0	2	0	0	0
+Sulfolobus islandicus	0	0	0	7	0	0	0	17	0	3	1	0	0	0	1	0	0	12	0	0	0	0	0	4
+Sulfolobus solfataricus	3	3	8	5	3	0	3	0	0	0	2	3	3	1	1	4	0	0	1	0	1	1	3	0
+Sulfolobus sp. A20	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	1	0	0	0	2
+Sulfurisphaera tokodaii	0	0	0	0	0	0	1	0	65	0	0	0	0	0	4	0	0	0	0	1	0	0	1	0
+Thermofilum adornatus	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	2	0	0	0	1	0	0	0
+Thermofilum carboxyditrophus	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Thermofilum pendens	0	3	0	0	2	0	0	0	1	0	7	0	0	3	3	0	0	0	2	1	2	2	0	0
+Thermofilum uzonense	3	2	1	1	1	0	0	0	0	2	3	1	0	5	10	4	0	4	0	1	14	0	0	0
+Caldivirga maquilingensis	0	0	1	0	0	0	11	0	0	0	3	1	0	0	0	0	0	0	0	1	0	0	0	2
+Pyrobaculum islandicum	0	0	0	2	0	2	1	1	0	0	1	0	0	2	1	0	1	0	1	0	0	0	0	5
+Thermoproteus tenax	3	26	0	0	0	0	0	1	0	0	88	0	7	0	1	0	1	0	85	2	1	0	24	3
+Thermoproteus uzoniensis	4	9	9	33	19	86	32	9	75	9	10	130	27	14	10	105	21	8	11	37	25	57	2	71
+Vulcanisaeta distributa	0	1	4	0	0	1	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	9	0	0
+Vulcanisaeta moutnovskia	0	0	3	1	0	1	2	0	0	1	0	6	0	0	2	1	1	0	3	0	6	2	0	5
+Archaeoglobus fulgidus	7	123	2	35	9	9	5	5	13	3	29	49	64	2	35	31	2	19	26	118	72	30	2	215
+Archaeoglobus profundus	0	1	6	0	1	1	0	0	1	1	1	2	0	1	0	0	0	0	0	0	0	4	1	0
+Archaeoglobus sulfaticallidus	2	5	4	17	0	0	5	2	1	0	7	1	0	1	0	0	5	8	0	4	0	1	0	2
+Archaeoglobus veneficus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	4
+Ferroglobus placidus	3	1	23	2	0	0	18	1	1	0	2	17	3	3	6	2	0	2	1	1	4	19	1	5
+Geoglobus acetivorans	0	34	4	14	3	11	3	2	0	16	1	9	2	20	36	7	5	2	4	9	13	8	7	12
+Geoglobus ahangari	30	5	22	0	3	1	54	40	69	1	5	12	14	2	1	1	2	29	14	11	4	53	6	9
+Haloarcula hispanica	0	24	1	4	2	0	0	0	0	0	4	0	1	0	3	3	4	0	2	1	1	1	2	0
+Haloarcula marismortui	1	0	5	3	0	0	0	12	2	1	5	0	0	1	0	0	1	0	0	3	0	3	2	0
+Haloarcula sp. CBA1115	48	7	2	2	0	2	2	2	0	0	1	2	2	3	0	2	2	2	0	9	5	2	0	8
+Haloarcula taiwanensis	13	4	0	0	0	0	3	19	0	0	2	2	0	0	12	1	0	1	1	4	2	1	3	13
+Halomicrobium mukohataei	15	2	9	0	1	14	10	1	2	0	35	7	9	4	1	1	1	0	5	8	12	21	0	0
+Halorhabdus tiamatea	5	4	6	2	3	1	27	4	0	1	12	3	1	5	1	3	3	1	5	13	3	7	1	21
+Halorhabdus utahensis	1	4	22	18	25	19	2	0	4	2	36	10	46	7	28	10	35	1	2	7	7	5	20	25
+Halorientalis sp. IM1011	0	8	7	3	7	2	3	2	1	0	31	2	0	88	1	0	22	7	5	12	4	2	4	1
+Natronomonas moolapensis	6	5	2	1	17	8	2	0	1	0	15	0	7	3	10	1	8	0	0	3	0	1	13	9
+Natronomonas pharaonis	0	5	11	5	0	10	2	1	1	0	4	2	3	2	1	16	0	4	0	0	5	112	0	0
+Haloarculaceae archaeon HArcel1	9	12	4	3	23	28	2	64	7	24	18	9	10	11	83	124	32	8	158	19	66	0	8	42
+Halalkalicoccus jeotgali	43	18	5	13	20	16	19	25	0	20	11	45	1	5	66	8	3	35	2	3	21	3	3	85
+Halanaeroarchaeum sulfurireducens	10	21	40	3	3	1	14	7	7	13	54	8	0	0	8	10	3	3	5	5	3	7	22	6
+Halobacterium hubeiense	3	5	22	4	0	2	18	3	5	0	2	11	5	9	7	2	4	57	3	0	6	8	0	12
+Halobacterium salinarum	3	3	29	0	1	0	12	1	0	0	0	2	2	0	0	0	0	0	7	0	1	1	6	1
+Halobacterium sp. DL1	1	4	26	0	0	0	3	7	0	12	17	0	1	0	2	0	0	0	1	3	1	9	4	0
+Halodesulfurarchaeum formicicum	1	2	6	0	0	3	3	1	2	0	7	6	1	1	4	6	0	13	3	11	1	0	6	6
+Haloferax gibbonsii	1	78	7	1	0	2	10	6	4	0	9	6	0	10	14	3	1	41	2	55	4	2	2	57
+Haloferax mediterranei	1	2	14	2	0	0	1	3	1	2	0	1	1	0	0	2	0	4	0	4	0	6	2	3
+Haloferax volcanii	0	1	5	0	0	4	6	5	0	1	26	0	1	0	1	13	0	131	0	0	12	0	4	1
+Halogeometricum borinquense	0	1	2	3	6	0	1	0	5	1	14	5	4	4	5	7	2	0	13	6	2	0	37	6
+Haloplanus sp. CBA1112	0	1	1	0	0	0	0	0	3	0	3	0	1	0	0	0	0	0	0	0	0	6	0	0
+Haloplanus sp. CBA1113	3	2	2	0	0	0	0	6	0	0	4	4	1	1	2	3	3	1	0	0	6	0	4	0
+Haloquadratum walsbyi	1	0	198	3	27	93	580	12	34	8	166	174	91	2	1	0	116	0	9	2	23	164	2	323
+Halohasta litchfieldiae	1	5	5	4	2	0	3	0	21	5	0	4	11	3	11	1	2	1	0	5	1	12	1	13
+Halopenitus persicus	9	11	14	8	3	4	11	11	2	3	8	107	2	16	16	84	1	27	28	105	6	7	1	62
+Halorubrum lacusprofundi	0	1	4	6	2	5	4	0	8	4	2	1	6	7	9	5	4	0	7	7	16	4	7	1
+Halorubrum trapanicum	0	0	0	3	0	1	2	140	5	1	5	1	0	0	1	35	15	0	1	7	20	0	2	0
+Salinigranum rubrum	2	0	5	0	1	0	8	1	0	4	4	2	1	2	0	0	1	1	1	2	5	2	5	7
+halophilic archaeon DL31	3	2	7	1	0	0	0	0	0	0	0	1	3	3	2	2	3	6	1	4	1	1	0	3
+Halobiforma lacisalsi	0	9	16	1	2	2	1	1	6	0	7	2	11	2	4	2	2	1	14	7	0	4	2	2
+Halopiger xanaduensis	0	3	6	4	13	5	2	1	0	0	32	2	17	3	3	1	28	0	1	4	6	4	1	14
+Halostagnicola larsenii	0	8	13	2	3	0	0	17	24	3	0	1	8	5	2	0	0	11	2	6	1	3	2	2
+Haloterrigena daqingensis	0	0	9	1	4	3	3	18	4	4	0	3	1	4	5	2	3	1	11	6	5	7	1	3
+Haloterrigena turkmenica	4	22	137	95	9	17	2	18	1	3	11	4	83	13	18	10	8	43	182	48	2	4	25	4
+Natrialba magadii	20	29	19	0	6	11	36	0	16	9	6	64	5	9	4	59	0	41	27	58	2	21	9	57
+Natrinema pellirubrum	7	1	4	0	0	3	1	0	0	2	3	9	0	1	9	4	1	0	0	3	0	2	2	5
+Natrinema sp. J7-2	0	62	14	17	3	33	1	5	0	2	0	4	8	4	65	0	3	3	0	4	2	0	6	39
+Natronobacterium gregoryi	69	14	19	2	38	34	3	7	15	32	52	4	34	55	78	49	43	16	5	31	136	4	10	45
+Natronococcus occultus	0	1	17	0	4	16	3	0	0	1	5	4	36	4	0	3	1	0	4	5	5	11	0	3
+Natronolimnobius aegyptiacus	0	5	77	0	2	0	4	0	2	5	0	1	0	1	2	2	0	3	0	3	0	1	0	1
+Natronolimnobius sp. AArc-Mg	0	1	5	0	0	0	0	3	0	0	31	0	15	0	0	0	3	5	4	1	0	0	4	0
+Natronolimnobius sp. AArc1	0	0	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Salinarchaeum sp. Harcht-Bsk1	17	31	18	21	1	9	16	2	11	4	9	15	3	7	23	2	3	0	11	12	15	25	5	30
+Methanobacterium congolense	10	0	5	5	0	0	8	2	0	3	11	11	1	1	3	1	1	7	1	11	0	7	1	12
+Methanobacterium formicicum	0	1	5	4	0	0	5	1	4	0	5	7	3	0	0	0	0	0	0	1	3	1	0	1
+Methanobacterium lacus	4	12	36	12	9	28	9	6	9	1	1	112	4	25	10	21	6	12	5	39	21	37	18	8
+Methanobacterium paludis	0	1	2	3	0	5	5	0	0	1	1	1	1	0	0	0	1	1	2	0	14	1	0	0
+Methanobacterium sp. MB1	2	4	9	13	4	11	3	0	0	3	4	10	2	2	3	2	5	1	4	13	6	12	7	3
+Methanobacterium sp. MZ-A1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Methanobacterium subterraneum	8	10	0	4	0	3	1	1	1	1	0	1	8	2	15	0	3	1	1	0	3	1	7	2
+Methanobrevibacter millerae	5	25	65	131	19	50	32	27	5	10	31	96	4	57	608	23	32	25	260	49	59	68	86	58
+Methanobrevibacter olleyae	3	14	10	167	32	14	11	15	0	2	13	31	1	21	40	3	7	10	29	64	5	28	3	15
+Methanobrevibacter ruminantium	1	4	12	130	2	1	6	2	0	0	0	32	0	4	12	0	4	2	12	5	3	56	16	8
+Methanobrevibacter smithii	5091	14097	1558	87577	29169	230659	105304	282804	6708	86743	37535	160024	25501	522769	268352	82087	63664	59130	206380	23735	115533	133383	113351	109970
+Methanobrevibacter sp. AbM4	0	1	10	13	3	12	1	0	0	0	3	9	3	3	0	1	1	0	5	0	0	3	0	3
