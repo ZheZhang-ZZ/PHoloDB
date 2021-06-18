@@ -93,6 +93,8 @@ The phenotypic data files contain the following columns:
 
 + Day_to_115kg: The number of days to reach 115 kg, which was calucated based on the body weight at the off-test stage using the following formula:
 
+  <img src="https://latex.codecogs.com/svg.image?\text&space;{Adjusted&space;days&space;to&space;115&space;kg}&space;=&space;\text&space;{actual&space;age}&space;&plus;&space;\left[&space;115&space;-&space;\text{actual&space;weight}&space;\times&space;\frac{\text{actual&space;age}-a}{\text{actual&space;weight}}&space;\right]" title="\text {Adjusted days to 115 kg} = \text {actual age} + \left[ 115 - \text{actual weight} \times \frac{\text{actual age}-a}{\text{actual weight}} \right]" />
+
   
   $$
   \text {Adjusted days to 115 kg} = \text {actual age} + \left[ 115 - \text{actual weight} \times \frac{\text{actual age}-a}{\text{actual weight}} \right]
@@ -102,6 +104,8 @@ The phenotypic data files contain the following columns:
   where $a=50$ for boars and $40$ for sows
 
 + Backfat_thickness: The backfat thickness (mm) of pigs were measured using ultrasound scanning between the 3rd and 4th last ribs, which were corrected to 115 kg using the following formula:
+
+  <img src="https://latex.codecogs.com/svg.image?\text{Adjusted&space;backfat}&space;=&space;\text{actual&space;backfat}&space;&plus;&space;\left[\left(115-\text{actual&space;weight}\right)\times\frac{\text{actual&space;backfat}}{\text{actual&space;weight}-a}\right]" title="\text{Adjusted backfat} = \text{actual backfat} + \left[\left(115-\text{actual weight}\right)\times\frac{\text{actual backfat}}{\text{actual weight}-a}\right]" />
 
   
   $$
@@ -113,23 +117,21 @@ The phenotypic data files contain the following columns:
 
 + Loin_muscle_area: The loin muscle area ($\text{cm}^2$) of pigs were measured  using ultrasound scanning between the 3rd and 4th last ribs, which were corrected to 115 kg using the following formula:
 
+  <img src="https://latex.codecogs.com/svg.image?\begin{aligned}\text{Adjusted&space;loin&space;muscle&space;area}&space;&=&space;\text{actual&space;loin&space;muscle&space;area}&space;&plus;\\&&space;\left[\left(115-\text{actual&space;weight}\right)\times\frac{\text{actual&space;loin&space;muscle&space;area}}{\text{actual&space;weight}&plus;&space;70.31}\right]\end{aligned}" title="\begin{aligned}\text{Adjusted loin muscle area} &= \text{actual loin muscle area} +\\& \left[\left(115-\text{actual weight}\right)\times\frac{\text{actual loin muscle area}}{\text{actual weight}+ 70.31}\right]\end{aligned}" />
+
   
   $$
-  \begin{aligned}
-  \text{Adjusted loin muscle area} &= \text{actual loin muscle area} +\\
-  & \left[\left(115-\text{actual weight}\right)\times\frac{\text{actual loin muscle area}}{\text{actual weight}+ 70.31}\right]
-  \end{aligned}
+  \begin{aligned}\text{Adjusted loin muscle area} &= \text{actual loin muscle area} +\\& \left[\left(115-\text{actual weight}\right)\times\frac{\text{actual loin muscle area}}{\text{actual weight}+ 70.31}\right]\end{aligned}
   $$
   
 
 + Lean_percentage: The  lean percentage (%) were predicted based on backfat thickness and loin muscle area ajusted to 115 kg using the following formula:
 
+  <img src="https://latex.codecogs.com/svg.image?\begin{aligned}\text&space;{lean&space;percentage}&space;=&space;\left[80.96-\left(0.6472&space;\times&space;\text{Adjusted&space;backfat}\right)&space;&plus;&space;\left(&space;0.7274&space;\times&space;\text{Adjusted&space;loin&space;muscle&space;area}\right)\right]&space;\times&space;0.54\end{aligned}" title="\begin{aligned}\text {lean percentage} = \left[80.96-\left(0.6472 \times \text{Adjusted backfat}\right) + \left( 0.7274 \times \text{Adjusted loin muscle area}\right)\right] \times 0.54\end{aligned}" />
+
   
   $$
-  \begin{aligned}
-  \text {lean percentage} &= \left[80.96-\left(0.6472 \times \text{Adjusted backfat}\right) + \\
-  \left( 0.7274 \times \text{Adjusted loin muscle area}\right)\right] \times 0.54
-  \end{aligned}
+  \begin{aligned}\text {lean percentage} &= \left[80.96-\left(0.6472 \times \text{Adjusted backfat}\right) + \\ \left( 0.7274 \times \text{Adjusted loin muscle area}\right)\right] \times 0.54\end{aligned}
   $$
 
 
